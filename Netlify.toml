@@ -1,12 +1,12 @@
 [[redirects]]
   from = "/*"
-  to = "/dist/index.html"
+  to = "/index.html"
   status = 200
   force = true
 
 [[redirects]]
   from = "/404"
-  to = "/dist/index.html"
+  to = "/index.html"
   status = 200
   force = true
 
