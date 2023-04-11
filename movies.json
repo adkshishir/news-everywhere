@@ -1,0 +1,482 @@
+[
+  {
+    "name": "Shah Rukh Khan",
+    "image": "https://i.pinimg.com/originals/99/d3/60/99d36030af8c671082beebeed469d5f7.jpg",
+    "summary": " Shah Rukh Khan, also known by the initials SRK, is an Indian actor, film producer, and television personality. He was born on November 2, 1965, in New Delhi, India.\n Khan began his acting career in the late 1980s and became a household name in the 1990s with his roles in successful films such as 'Dilwale Dulhania Le Jayenge' (1995) and 'Kuch Kuch Hota Hai' (1998). He has since appeared in numerous critically acclaimed and commercially successful films, including 'Devdas' (2002), 'Chak De! India' (2007), and 'My Name Is Khan' (2010).\n Aside from acting, Khan is also a successful film producer and has produced several films under his production company, Red Chillies Entertainment. He has also been a television host, including hosting the popular Indian version of the game show 'Who Wants to Be a Millionaire?' called 'Kaun Banega Crorepati' in 2007.\nKhan is considered one of the most successful and influential actors in the Indian film industry. He has won numerous awards for his performances, including 14 Filmfare Awards, which is the most won by any actor in the history of the awards. In 2005, he was honored with the Padma Shri, which is one of the highest civilian awards in India",
+    "DOB": " November 2,1965 ",
+    "DOBA": "New Delhi,India",
+    "movies": [
+      {
+        "index": 1,
+        "title": "Zero",
+        "year": 2018,
+        "director": "Aanand L. Rai",
+        "cast": ["Shah Rukh Khan", "Anushka Sharma", "Katrina Kaif"],
+        "genre": ["Romance", "Drama"],
+        "plot": "Bauua Singh, a vertically challenged man, falls in love with a scientist with cerebral palsy and soon realizes that his purpose in life is to help her achieve her dreams.",
+        "imdb_rating": 5.4,
+        "awards": ["None"],
+        "description": "Zero is a romantic drama film directed by Aanand L. Rai, starring Shah Rukh Khan, Anushka Sharma, and Katrina Kaif. The film tells the story of Bauua Singh, a vertically challenged man who falls in love with a scientist with cerebral palsy, played by Anushka Sharma. The movie explores themes of love, self-discovery, and the pursuit of dreams.",
+        "controversy": "Zero faced criticism for its portrayal of the character with cerebral palsy, with some viewers accusing the film of using the condition as a gimmick or for laughs. However, the film also received praise for its performances and its depiction of a love story that transcends societal norms.",
+        "earnings": {
+          "budget": "$35 million",
+          "box_office": "$92.6 million"
+        }
+      },
+      {
+        "index": 2,
+        "title": "Jab Harry Met Sejal",
+        "year": 2017,
+        "director": "Imtiaz Ali",
+        "cast": ["Shah Rukh Khan", "Anushka Sharma"],
+        "genre": ["Romance", "Comedy", "Drama"],
+        "plot": "Harry, a tour guide in Europe, falls in love with Sejal, one of his clients, who is searching for her lost engagement ring.",
+        "imdb_rating": 5.3,
+        "awards": ["None"],
+        "description": "Jab Harry Met Sejal is a romantic comedy-drama directed by Imtiaz Ali, starring Shah Rukh Khan and Anushka Sharma. The film follows the story of Harry, a tour guide in Europe, who falls in love with Sejal, a woman searching for her lost engagement ring. The movie explores themes of love, self-discovery, and the importance of relationships.",
+        "controversy": "Jab Harry Met Sejal received mixed reviews from audiences and critics. Some criticized the film for its lackluster plot and character development, while others appreciated the chemistry between Shah Rukh Khan and Anushka Sharma. However, the movie did not generate any major controversies or scandals.",
+        "earnings": {
+          "budget": "$28 million",
+          "box_office": "$88 million"
+        }
+      },
+      {
+        "index": 3,
+        "title": "Raees",
+        "year": 2017,
+        "director": "Rahul Dholakia",
+        "cast": ["Shah Rukh Khan", "Mahira Khan", "Nawazuddin Siddiqui"],
+        "genre": ["Action", "Crime", "Drama"],
+        "plot": "Raees, a bootlegger in Gujarat, becomes a powerful figure in the state's liquor network. However, his life takes a turn when he becomes a target of a police officer.",
+        "imdb_rating": 6.8,
+        "awards": [
+          "Filmfare Award for Best Actor (Critics) - Shah Rukh Khan",
+          "Zee Cine Award for Best Actor – Male - Shah Rukh Khan"
+        ],
+        "description": "Raees is a crime drama directed by Rahul Dholakia, starring Shah Rukh Khan, Mahira Khan, and Nawazuddin Siddiqui. The film is set in Gujarat and tells the story of Raees, a bootlegger who becomes a powerful figure in the state's liquor network. The movie explores themes of power, corruption, and morality.",
+        "controversy": "Raees faced controversy during its release due to its depiction of Muslims and the Gujarati community. Some political groups in Gujarat protested against the movie's release, citing concerns about its impact on communal harmony. However, the film went on to become a commercial success and was praised for its performances, particularly Shah Rukh Khan's portrayal of Raees.",
+        "earnings": {
+          "budget": "$15 million",
+          "box_office": "$45 million"
+        }
+      },
+      {
+        "index": 4,
+        "title": "Dear Zindagi",
+        "year": 2016,
+        "director": "Gauri Shinde",
+        "cast": ["Alia Bhatt", "Shah Rukh Khan", "Ira Dubey"],
+        "genre": ["Drama", "Romance"],
+        "plot": "Kaira, a budding cinematographer in search of the perfect life, meets Dr. Jehangir, a free-spirited psychologist who helps her gain a new perspective on her own life.",
+        "imdb_rating": 7.6,
+        "awards": [
+          "Filmfare Award for Best Actress - Alia Bhatt",
+          "Zee Cine Award for Best Actor in a Supporting Role - Male - Shah Rukh Khan"
+        ],
+        "description": "Dear Zindagi is a drama directed by Gauri Shinde, starring Alia Bhatt and Shah Rukh Khan. The film explores the story of Kaira, a young woman in search of the perfect life, who meets Dr. Jehangir, a psychologist who helps her gain a new perspective on her own life. The movie explores themes of love, life, and self-discovery.",
+        "controversy": null,
+        "earnings": {
+          "budget": "₹22 crore",
+          "box_office": "₹139.29 crore"
+        }
+      },
+      {
+        "index": 5,
+        "title": "Fan",
+        "year": 2016,
+        "director": "Maneesh Sharma",
+        "cast": ["Shah Rukh Khan", "Waluscha De Sousa", "Shriya Pilgaonkar"],
+        "genre": ["Drama", "Thriller"],
+        "plot": "Gaurav, a die-hard fan of superstar Aryan Khanna, embarks on a dangerous mission to meet his idol and prove his love and loyalty towards him.",
+        "imdb_rating": 7.1,
+        "awards": [null],
+        "description": "Fan is a drama thriller directed by Maneesh Sharma, starring Shah Rukh Khan as both the protagonist and antagonist. The film tells the story of Gaurav, a die-hard fan of superstar Aryan Khanna, who embarks on a dangerous mission to meet his idol and prove his love and loyalty towards him. The movie explores themes of obsession, celebrity culture, and the dangers of fandom.",
+        "controversy": "The film sparked controversy when it was alleged that portions of it were copied from the 1996 Hollywood film 'The Fan'.",
+        "earnings": {
+          "budget": "₹105 crore",
+          "box_office": "₹188.5 crore"
+        }
+      },
+      {
+        "index": 6,
+        "title": "Dilwale",
+        "year": 2015,
+        "director": "Rohit Shetty",
+        "cast": ["Shah Rukh Khan", "Kajol", "Varun Dhawan", "Kriti Sanon"],
+        "genre": ["Action", "Comedy", "Drama"],
+        "plot": "The siblings of two estranged lovers fall for each other, unaware of the violent past that drove their respective siblings apart.",
+        "imdb_rating": 5.2,
+        "awards": [null],
+        "description": "Dilwale is an action comedy drama directed by Rohit Shetty and starring Shah Rukh Khan, Kajol, Varun Dhawan, and Kriti Sanon. The film follows the story of two estranged lovers whose siblings fall in love with each other, but are unaware of the violent past that drove their respective siblings apart. Despite mixed reviews, the movie was a commercial success at the box office.",
+        "controversy": null,
+        "earnings": {
+          "budget": "₹165 crore",
+          "box_office": "₹408 crore"
+        }
+      },
+      {
+        "index": 7,
+        "title": "Happy New Year",
+        "year": 2014,
+        "director": "Farah Khan",
+        "cast": ["Shah Rukh Khan", "Deepika Padukone", "Abhishek Bachchan"],
+        "genre": ["Action", "Comedy", "Drama"],
+        "plot": "A team of losers win the love of millions in their quest to pull off the biggest diamond heist ever.",
+        "imdb_rating": 5.1,
+        "awards": [null],
+        "description": "Happy New Year is an action comedy drama directed by Farah Khan and starring Shah Rukh Khan, Deepika Padukone, and Abhishek Bachchan. The film follows a group of underdogs who set out to pull off the biggest diamond heist ever, while also competing in a dance competition. Despite mixed reviews, the movie was a commercial success at the box office.",
+        "controversy": null,
+        "earnings": {
+          "budget": "₹150 crore",
+          "box_office": "₹397 crore"
+        }
+      },
+      {
+        "index": 8,
+        "title": "Chennai Express",
+        "year": 2013,
+        "director": "Rohit Shetty",
+        "cast": ["Shah Rukh Khan", "Deepika Padukone"],
+        "genre": ["Action", "Comedy", "Romance"],
+        "plot": "A man's trip to fulfill his late grandfather's last wish turns into an unexpected adventure when he meets a unique young woman from southern India.",
+        "imdb_rating": 6.0,
+        "awards": [null],
+        "description": "Chennai Express is an action comedy romance directed by Rohit Shetty and starring Shah Rukh Khan and Deepika Padukone. The film follows the story of a man who embarks on a journey to fulfill his late grandfather's last wish, but ends up on an unexpected adventure when he meets a unique young woman from southern India. The movie was a commercial success and one of the highest-grossing Bollywood films of all time.",
+        "controversy": null,
+        "earnings": {
+          "budget": "₹75 crore",
+          "box_office": "₹423 crore"
+        }
+      },
+      {
+        "index": 9,
+        "title": "Jab Tak Hai Jaan",
+        "year": 2012,
+        "director": "Yash Chopra",
+        "cast": ["Shah Rukh Khan", "Katrina Kaif", "Anushka Sharma"],
+        "genre": ["Drama", "Romance"],
+        "plot": "An ex-army man, leading a double life in London, must choose between his wife and muse.",
+        "imdb_rating": 6.7,
+        "awards": [
+          "National Film Award for Best Background Score",
+          "IIFA Award for Best Cinematography",
+          "Filmfare Award for Best Choreography",
+          "and more"
+        ],
+        "description": "Jab Tak Hai Jaan is a romantic drama film directed by Yash Chopra and starring Shah Rukh Khan, Katrina Kaif, and Anushka Sharma. The movie follows the story of an ex-army man living a double life in London, who must choose between his wife and muse. The film received mixed reviews but was a commercial success at the box office.",
+        "controversy": null,
+        "earnings": {
+          "budget": "₹ 50 crore",
+          "box_office": "₹ 211.57 crore"
+        }
+      },
+      {
+        "index": 10,
+        "title": "Don 2",
+        "year": 2011,
+        "director": "Farhan Akhtar",
+        "cast": [
+          "Shah Rukh Khan",
+          "Priyanka Chopra",
+          "Boman Irani",
+          "Lara Dutta",
+          "Kunal Kapoor"
+        ],
+        "genre": ["Action", "Thriller"],
+        "plot": "Don, a wanted criminal, dies in a police chase. DSP D'Silva is the only one who knows about his death, and to get hold of the gang he trains a lookalike, Vijay. However, Vijay faces danger when Don's associates learn of his existence.",
+        "imdb_rating": 7.1,
+        "awards": [
+          "Filmfare Award for Best Sound Design",
+          "Zee Cine Award for Best Sound Design",
+          "Stardust Award for Best Action",
+          "and more"
+        ],
+        "description": "Don 2 is an action thriller film directed by Farhan Akhtar and starring Shah Rukh Khan, Priyanka Chopra, Boman Irani, Lara Dutta, and Kunal Kapoor. The movie follows the story of Don, a wanted criminal who dies in a police chase. DSP D'Silva is the only one who knows about his death, and to get hold of the gang, he trains a lookalike, Vijay. However, Vijay faces danger when Don's associates learn of his existence. The film was a commercial success and received positive reviews from critics.",
+        "controversy": null,
+        "earnings": {
+          "budget": "₹ 75 crore",
+          "box_office": "₹ 228.26 crore"
+        }
+      },
+      {
+        "index": 11,
+        "title": "Ra.One",
+        "year": 2011,
+        "director": "Anubhav Sinha",
+        "cast": [
+          "Shah Rukh Khan",
+          "Kareena Kapoor",
+          "Arjun Rampal",
+          "Shahana Goswami"
+        ],
+        "genre": ["Action", "Sci-Fi"],
+        "plot": "When Ra.One, a virtual reality character, learns about his true identity, he decides to seek revenge against his creator, Shekhar. He teams up with Shekhar's wife to destroy Ra.One and save their son's life.",
+        "imdb_rating": 4.6,
+        "awards": [
+          "Filmfare Award for Best Visual Effects",
+          "National Film Award for Best Special Effects",
+          "Stardust Award for Best Action",
+          "and more"
+        ],
+        "description": "Ra.One is an action sci-fi film directed by Anubhav Sinha and starring Shah Rukh Khan, Kareena Kapoor, Arjun Rampal, and Shahana Goswami. The movie follows the story of Ra.One, a virtual reality character who learns about his true identity and seeks revenge against his creator, Shekhar. He teams up with Shekhar's wife to destroy Ra.One and save their son's life. The film received mixed reviews from critics but was a commercial success at the box office.",
+        "controversy": null,
+        "earnings": {
+          "budget": "₹ 150 crore",
+          "box_office": "₹ 240.44 crore"
+        }
+      },
+      {
+        "index": 12,
+        "title": "Dulha Mil Gaya",
+        "year": 2010,
+        "director": "Mudassar Aziz",
+        "cast": [
+          "Shah Rukh Khan",
+          "Sushmita Sen",
+          "Fardeen Khan",
+          "Ishita Sharma"
+        ],
+        "genre": ["Romance", "Comedy"],
+        "plot": "When a struggling actor gets the chance to marry a wealthy heiress, he jumps at the opportunity. But things become complicated when he falls in love with someone else.",
+        "imdb_rating": 4.1,
+        "awards": [
+          "Nominated, Stardust Award for Best Actor in a Supporting Role – Female (Sushmita Sen)",
+          "Nominated, Stardust Award for Superstar of Tomorrow – Male (Fardeen Khan)"
+        ],
+        "description": "Dulha Mil Gaya is a romantic comedy film directed by Mudassar Aziz and starring Shah Rukh Khan, Sushmita Sen, Fardeen Khan, and Ishita Sharma. The movie follows the story of a struggling actor who gets the chance to marry a wealthy heiress and improve his financial situation, but he ends up falling in love with someone else. The film received negative reviews from critics and was a box office failure.",
+        "controversy": null,
+        "earnings": {
+          "budget": "$8.8 million",
+          "box_office": "$1.9 million"
+        }
+      },
+      {
+        "index": 13,
+        "title": "My Name Is Khan",
+        "year": 2010,
+        "genre": ["Drama", "Romance"],
+        "director": "Karan Johar",
+        "actors": ["Shah Rukh Khan", "Kajol", "Jimmy Shergill"],
+        "plot": "An Indian Muslim man with Asperger's syndrome takes a challenge to speak to the President of the United States seriously and embarks on a cross-country journey.",
+        "awards": ["Best Director - Popular", "Best Actor - Popular"],
+        "imdb_rating": "8.0",
+        "controversy": null,
+        "earnings": {
+          "budget": "$12 million",
+          "box_office": "$102 million"
+        }
+      },
+      {
+        "index": 14,
+        "title": "Luck By Chance",
+        "year": 2009,
+        "genre": ["Drama"],
+        "director": "Zoya Akhtar",
+        "actors": ["Farhan Akhtar", "Konkona Sen Sharma", "Rishi Kapoor"],
+        "plot": "A struggling actor comes from Delhi to Bombay and enters the Hindi film industry. This gives the audience an in sight into what sometimes happens when making a movie and what happens in the industry.",
+        "awards": ["Best Debutant Director - Zoya Akhtar"],
+        "imdb_rating": "7.1",
+        "controversy": null,
+        "earnings": {
+          "budget": "$2.5 million",
+          "box_office": "$4 million"
+        }
+      },
+      {
+        "index": 15,
+        "title": "Billu",
+        "year": 2009,
+        "genre": ["Comedy", "Drama"],
+        "director": "Priyadarshan",
+        "actors": ["Irrfan Khan", "Lara Dutta", "Om Puri"],
+        "plot": "A man's simple lie to secure his job escalates into more complex lies when his celebrity childhood friend comes to town.",
+        "awards": [
+          "Nominated, Filmfare Award for Best Supporting Actress – Lara Dutta"
+        ],
+        "imdb_rating": 6.1,
+        "controversy": null,
+        "description": "Billu is a heartwarming Bollywood comedy-drama film directed by Priyadarshan. The movie revolves around a man named Billu, played by Irrfan Khan, who lives in a small village in India. His life takes a turn when his childhood friend, a famous Bollywood superstar, comes to his village for a film shoot. Billu lies to the villagers that he and the superstar are childhood friends, which leads to a series of misunderstandings and complications.\n\nThe film features an impressive cast including Irrfan Khan, Lara Dutta, and Om Puri. The music of the film was composed by Pritam and the lyrics were penned by Gulzar. The film was praised for its performances and music, and was a commercial success at the box office.\n\nOverall, Billu is a heartwarming tale of friendship, love, and loyalty that will leave you feeling warm and fuzzy inside.",
+        "earnings": {
+          "budget": "$ 2.8 million",
+          "box_office": "$8.2 million"
+        }
+      },
+      {
+        "index": 16,
+        "title": "Rab Ne Bana Di Jodi",
+        "year": 2008,
+        "genre": ["Comedy", "Drama", "Romance"],
+        "director": "Aditya Chopra",
+        "actors": ["Shah Rukh Khan", "Anushka Sharma", "Vinay Pathak"],
+        "plot": "A middle-aged man who lost his love for life rediscovers it by assuming a new identity in order to rekindle the romantic spark in his marriage.",
+        "awards": [
+          "Filmfare Award for Best Actor - Shah Rukh Khan",
+          "Filmfare Award for Best Supporting Actress - Anushka Sharma"
+        ],
+        "imdb_rating": 7.1,
+        "controversy": null,
+        "description": "Rab Ne Bana Di Jodi is a 2008 Indian romantic comedy-drama film directed by Aditya Chopra and produced by Yash Raj Films. The film stars Shah Rukh Khan and Anushka Sharma in the lead roles. The story follows a middle-aged man named Surinder Sahni who falls in love with his young, vivacious neighbor Taani. However, he realizes that she is already engaged to be married to someone else. To win her heart, Surinder undergoes a drastic transformation and takes on a new identity as a flamboyant and charming man named Raj. As Raj, he helps Taani prepare for her dance competition and eventually wins her heart. The film explores themes of love, identity, and self-discovery.",
+        "earnings": {
+          "budget": "25 crore",
+          "box_office": "232.85 crore"
+        }
+      },
+      {
+        "index": 17,
+        "title": "Bhoothnath",
+        "year": 2008,
+        "genre": ["Comedy", "Drama", "Fantasy"],
+        "director": "Vivek Sharma",
+        "actors": ["Amitabh Bachchan", "Juhi Chawla", "Satish Shah"],
+        "plot": "Moving into a new house, a family witnesses an unfriendly ghost who wants to drive them away from the house. However, he befriends a little boy who changes his outlook forever.",
+        "awards": [
+          "Nominated, Screen Award for Best Actor in a Supporting Role, Amitabh Bachchan",
+          "Nominated, Screen Award for Best Actress in a Supporting Role, Juhi Chawla"
+        ],
+        "imdb_rating": 6.3,
+        "controversy": null,
+        "description": "Bhoothnath is a 2008 Indian Hindi-language comedy-drama film directed by Vivek Sharma, and starring Amitabh Bachchan, Juhi Chawla, and Satish Shah. The film is about a friendly ghost who has to scare off a family to get a place to haunt, but befriends the young son of the family instead, who teaches him to be brave. Bhoothnath is a heartwarming tale of friendship and courage.",
+        "earnings": {
+          "budget": "20 crore",
+          "box_office": "50.5 crore"
+        }
+      }
+    ]
+  },
+  {
+    "name": "salman khan",
+    "image": "https://www.goodmorningimagesdownload.com/wp-content/uploads/2020/01/salman-khan-bollywood-big.jpg",
+    "DOB": " December 27,1965",
+    "summary": "Salman Khan made his acting debut in 1988 with the film Biwi Ho To Aisi, but he gained fame with his lead role in the 1989 film Maine Pyar Kiya. He has acted in over 80 Hindi films in his career, including blockbuster hits such as Hum Aapke Hain Koun..!, Karan Arjun, Bajrangi Bhaijaan, Dabangg, and Sultan, among others.\nBesides acting, Salman Khan is also a successful producer and has produced films like Chillar Party, Hero, and Race 3, among others. He is also known for his philanthropic work and has founded the Being Human Foundation, which works for the betterment of underprivileged children and healthcare.\nSalman Khan has been involved in several controversies throughout his career, including his alleged involvement in a hit-and-run case in 2002, which he was acquitted of in 2015. Despite the controversies, Salman Khan remains one of the most popular and successful actors in Bollywood.",
+    "DOBA": "Indore, Madhya Pardesh, India",
+    "movies": [
+      {
+        "index": 1,
+        "title": "Maine Pyar Kiya",
+        "year": 1989,
+        "director": "Sooraj Barjatya",
+        "cast": [
+          "Salman Khan",
+          "Bhagyashree",
+          "Alok Nath",
+          "Mohnish Bahl",
+          "Laxmikant Berde"
+        ],
+        "genre": ["Romance", "Musical", "Drama"],
+        "plot": "The story revolves around a young man named Prem who falls in love with Suman. The two must overcome their families' objections to their relationship and prove their love for each other.",
+        "imdb_rating": 7.5,
+        "awards": [
+          "Filmfare Award for Best Film",
+          "Filmfare Award for Best Director",
+          "Filmfare Award for Best Male Debut (Salman Khan)",
+          "National Film Award for Best Popular Film Providing Wholesome Entertainment"
+        ],
+        "controversy": "",
+        "earnings": {
+          "budget": "1.5 crore INR",
+          "box_office": "29 crore INR"
+        }
+      },
+      {
+        "index": 2,
+        "title": "Baaghi: A Rebel for Love",
+        "year": 1990,
+        "director": "Deepak Shivdasani",
+        "cast": ["Salman Khan", "Nagma", "Shakti Kapoor", "Kiran Kumar"],
+        "genre": ["Action", "Romance"],
+        "plot": "The film follows the story of a young man named Saajan who falls in love with a girl named Kajal, but their relationship is met with opposition from her father and his criminal associates.",
+        "imdb_rating": 5.7,
+        "awards": [],
+        "controversy": "",
+        "earnings": {
+          "budget": "",
+          "box_office": ""
+        }
+      },
+      {
+        "index": 3,
+        "title": "Dancer",
+        "year": 1990,
+        "director": "Kishore Vyas",
+        "cast": ["Salman Khan", "Akshay Kumar", "Mohnish Bahl", "Nandini"],
+        "genre": ["Drama", "Romance"],
+        "plot": "The film tells the story of a young woman who dreams of becoming a successful dancer, but her aspirations are threatened by her family's opposition and her love for a man who disapproves of her profession.",
+        "imdb_rating": 4.6,
+        "awards": [],
+        "controversy": "",
+        "earnings": {
+          "budget": "",
+          "box_office": ""
+        }
+      },
+      {
+        "index": 4,
+        "title": "Saajan",
+        "year": 1991,
+        "director": "Lawrence D'Souza",
+        "cast": ["Salman Khan", "Madhuri Dixit", "Sanjay Dutt", "Kader Khan"],
+        "genre": ["Romance", "Drama", "Musical"],
+        "plot": "The film tells the story of two friends, Aman and Akash, who fall in love with the same woman, Pooja. Aman sacrifices his love for Akash, but when Akash is injured, Pooja takes care of him, leading to a series of misunderstandings.",
+        "imdb_rating": 7.2,
+        "awards": [
+          "Filmfare Award for Best Supporting Actor (Sanjay Dutt)",
+          "Filmfare Award for Best Lyricist (Sameer)",
+          "Filmfare Award for Best Music Director (Nadeem-Shravan)"
+        ],
+        "controversy": "",
+        "earnings": {
+          "budget": "",
+          "box_office": ""
+        }
+      },
+      {
+        "index": 5,
+        "title": "Kurbaan",
+        "year_of_release": 1991,
+        "director": "Deepak Bahry",
+        "cast": ["Salman Khan", "Ayesha Jhulka", "Sunil Dutt", "Kabir Bedi"],
+        "genre": ["Action", "Drama", "Romance"],
+        "plot": "The film follows the story of a young man named Akash who seeks revenge against a gang of criminals who killed his family.",
+        "imdb_rating": 4.6,
+        "awards": [],
+        "controversy": "",
+        "earnings": {
+          "budget": "",
+          "box_office": ""
+        }
+      },
+      {
+        "index": 6,
+        "title": "Love",
+        "year_of_release": 1991,
+        "director": "Suresh Krishna",
+        "cast": ["Salman Khan", "Revathi", "Amjad Khan", "Joohi Chawla"],
+        "genre": ["Romance", "Drama"],
+        "plot": "The film tells the story of a wealthy man who falls in love with a woman from a lower socioeconomic background. Their relationship is met with opposition from their families.",
+        "imdb_rating": 5.3,
+        "awards": [],
+        "controversy": "",
+        "earnings": {
+          "budget": "",
+          "box_office": ""
+        }
+      }
+    ]
+  },
+  {
+    "name": "Deepika Padukone",
+    "DOB": "january 5,1986",
+    "DOBA": "Copenhagen ,Denmark  ",
+    "summary": "Deepika Padukone is an Indian actress and producer who primarily works in Hindi films. She was born on January 5, 1986 in Copenhagen, Denmark, and raised in Bangalore, India.\nDeepika made her acting debut in 2006 with the Kannada film 'Aishwarya'. She then made her Bollywood debut in 2007 with the film 'Om Shanti Om', which was a huge commercial success and earned her the Filmfare Award for Best Female Debut.\nSince then, Deepika has starred in numerous successful Bollywood films including 'Yeh Jawaani Hai Deewani', 'Chennai Express', 'Bajirao Mastani', 'Padmaavat', and 'Chhapaak'. She has won several awards for her performances including three Filmfare Awards.\nApart from acting, Deepika is also involved in various social causes and philanthropy work. She has also been named as one of the 100 most influential people in the world by Time magazine.",
+    "image": "https://scontent.fktm16-1.fna.fbcdn.net/v/t39.30808-6/332585731_521784950072501_2194200885638734679_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGtrUET0MOGvZFLnbJmBulgd0XnfNTprWF3Red81OmtYbTB3-tpgki5-CHqegJN4JCbuwgfyiZB2TbkTfZU-z3t&_nc_ohc=vDv11x8p4_oAX9HwBI7&_nc_ht=scontent.fktm16-1.fna&oh=00_AfC4yGpHwqbhqWrFVTQUp0ZEkwFELgd8LMarz_M_A7B3jQ&oe=642570E0",
+    "movies": []
+  },
+  {
+    "name": "Priyanka chopra",
+    "DOB": "july 18, 1982",
+    "DOBA": "jamshedpur,India",
+    "image": "https://scontent.fktm16-1.fna.fbcdn.net/v/t39.30808-6/337287290_908430490274151_2574014976827922340_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5cd70e&_nc_eui2=AeEL-k4mv-VnoxyZMy1-_w0-2TQ6DAie7_nZNDoMCJ7v-Vq7qDmhyk8y76L3R-tPhj1tXw7o1A1alyq7EBcCYPhW&_nc_ohc=XOMez5l5IlgAX_WLh6a&_nc_ht=scontent.fktm16-1.fna&oh=00_AfCUFSpapGwDM3PBDEdIrIXTJfCP35MqSN6xmh5pDz_H0A&oe=6425EFFF",
+    "summary": "Priyanka Chopra is an Indian actress, singer, film producer, and former Miss World. She was born on July 18, 1982 in Jamshedpur, India.\nPriyanka made her acting debut in 2002 with the Tamil film 'Thamizhan'. She then went on to star in several Bollywood films such as 'Andaaz', 'Aitraaz', 'Fashion', 'Barfi!', 'Mary Kom', and 'Bajirao Mastani'. She has won several awards for her performances including the National Film Award for Best Actress.\nIn addition to her acting career, Priyanka has also released several hit singles and is known for her philanthropy work. She is a UNICEF Goodwill Ambassador and has been involved in several humanitarian causes including education, health, and gender equality.\nPriyanka is also recognized for her work in Hollywood. She made her Hollywood debut in the TV series 'Quantico' and has also starred in films such as 'Baywatch', 'A Kid Like Jake', and 'Isn't It Romantic'.",
+    "movies": []
+  }
+]

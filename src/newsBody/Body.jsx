@@ -13,8 +13,8 @@ const Body = ({ onclick, lang, country, category, news, onSearch }) => {
   const navigate = useNavigate();
   // genws.io api key
   const [API_KEY, setAPI_KEY] = useState(
-    "3faef0d7c9b7745d2dae0fd5cc92df82"
-    // "86ea67eb2922d23c0059fdaa5cb47063"
+    // "3faef0d7c9b7745d2dae0fd5cc92df82"
+    "86ea67eb2922d23c0059fdaa5cb47063"
   );
   // declare to store the search value after user type full name of news
   const [searchValue, setSearchValue] = useState();
@@ -186,7 +186,17 @@ const Body = ({ onclick, lang, country, category, news, onSearch }) => {
                   </a>
                 </p>
               </div>
-              <span>ads is located Hebrew</span>
+              <amp-ad
+                width="100vw"
+                height="320"
+                type="adsense"
+                data-ad-client="ca-pub-5060645674260174"
+                data-ad-slot="8959064369"
+                data-auto-format="rspv"
+                data-full-width=""
+              >
+                <div overflow=""></div>
+              </amp-ad>
             </div>
           )}
       <div className="mb-2 grid gap-4 xl:px-20 lg:px-16 sm:px-10 p-5 xl:grid-cols-3 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 lg:max-w-[90%] m-auto bg-white">

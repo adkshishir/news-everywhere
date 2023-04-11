@@ -93,7 +93,17 @@ const ActivePage = ({ data, onclick, searchValue, category }) => {
                 </a>
               </p>
             </div>
-            <span>ads is located Hebrew</span>
+            <amp-ad
+              width="100vw"
+              height="320"
+              type="adsense"
+              data-ad-client="ca-pub-5060645674260174"
+              data-ad-slot="8959064369"
+              data-auto-format="rspv"
+              data-full-width=""
+            >
+              <div overflow=""></div>
+            </amp-ad>
           </div>
           <div
             className="mb-2 grid gap-4 xl:px-20 lg:px-16 sm:px-10 p-5 xl:grid-cols-3 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 max-w-screen-xl m-auto bg-white"
